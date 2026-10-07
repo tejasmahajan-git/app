@@ -1,3 +1,5 @@
 print("Hello Git")
 print("Learning Git in LazyVim")
 print("Change A")
+print("Line 1")
+print("Line 2")
